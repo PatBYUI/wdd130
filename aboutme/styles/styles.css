@@ -1,41 +1,63 @@
- body {
-     text-align: center;
- }
- 
- nav {
-     background-color: steelblue;
-     padding: 10px;
- }
- 
- a {
-     color: white;
-     margin: 30px;
- }
- 
- #active {
-     background-color: white;
-     color: steelblue;
- }
- 
- h1 {
-     color: steelblue;
- }
- 
- img {
-     width: 800px;
-     border: 4px solid steelblue;
- }
- 
- p {
-     padding: 10px;
- }
- 
- .main-para {
-     font-size: 1.5em;
-     line-height: 1.5em;
- }
- 
- footer {
-     background-color: steelblue;
-     color: white;
- }
+     nav,
+     footer {
+         background-color: steelblue;
+         padding: 10px;
+         text-align: center;
+     }
+     
+     a {
+         color: white;
+         margin: 30px;
+         font-size: 1.5em;
+     }
+     
+     a:hover {
+         background-color: white;
+         color: steelblue;
+     }
+     
+     font ont f #active {
+         background-color: white;
+         color: steelblue;
+     }
+     
+     h1 {
+         color: steelblue;
+         text-align: center;
+     }
+     
+     img {
+         display: block;
+         margin: 50px auto;
+         width: 80%;
+         border: 4px solid steelblue;
+     }
+     
+     main p {
+         width: 80%;
+         margin: 0 auto;
+         text-align: center;
+     }
+     
+     wid p {
+         width: 80%;
+     }
+     
+     .main-para {
+         font-size: 1.5em;
+         line-height: 1.5em;
+     }
+     
+     footer p {
+         font-size: 20px;
+         margin: 20px auto;
+     }
+     
+     footer p:hover {
+         color: blueviolet;
+     }
+     /*
+     * {
+         border: 2px solid blue;
+     }
+	 */
