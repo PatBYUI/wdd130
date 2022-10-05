@@ -18,7 +18,11 @@
                         color: #DBE4EE;
                     }
                     
-                    .home-tittle h4 {
+                    .home-tittle {
+                        color: #3E7CB1;
+                    }
+                    
+                    h4 {
                         color: #3E7CB1;
                     }
                     
@@ -99,7 +103,7 @@
                         text-decoration: none;
                     }
                     
-                    footer p a:hover {
+                    footer a:hover {
                         color: #DBE4EE;
                         text-decoration: none;
                     }
