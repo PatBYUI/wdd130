@@ -30,6 +30,10 @@ h4 {
     width: 80px;
 }
 
+.icon {
+    width: 80px;
+}
+
 #hero-img {
     width: 100%;
 }
@@ -103,7 +107,7 @@ footer a {
     text-decoration: none;
 }
 
-footer a:hover {
+footer p a:hover {
     color: #DBE4EE;
-    text-decoration: none;
+    text-decoration: underline;
 }
