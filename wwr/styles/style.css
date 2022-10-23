@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:ital@1&family=Permanent+Marker&display=swap');
+
 #logo_link{
   padding-top: 5px;
 }
@@ -21,6 +22,18 @@ nav a {
 nav a:hover {
     background-color: #3E7CB1;
     color: #DBE4EE;
+}
+
+body {
+    background-color: #DBE4EE;
+    font-size: 22px;
+    font-family: Kanit, 'Gentium Book Basic', Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    margin: 0;
 }
 
 .home-tittle {
@@ -60,18 +73,6 @@ main section {
     text-align: center;
 }
 
-body {
-    background-color: #DBE4EE;
-    font-size: 22px;
-    font-family: Kanit, 'Gentium Book Basic', Helvetica, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-h2{
-    margin: 0;
-}
-
 header {
     background-color: #3E7CB1;
 }
@@ -83,7 +84,7 @@ header {
     text-decoration: none;
     font-size: 18px;
     padding: 15px 30px;
-    margin-top: 10px;
+    margin-top: 50px;
     border-radius: 5px; 
 }
 
