@@ -68,17 +68,15 @@ h4 {
 .botton-box {
     text-align: center;
 }
-
+main {
+  margin-top: 100px;
+}
 main section {
     text-align: center;
 }
 
 main section img {
     box-sizing: border-box;
-}
-
-main div{
-    margin-top: 300px;
 }
 
 header {
