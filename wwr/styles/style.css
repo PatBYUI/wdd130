@@ -58,6 +58,13 @@ main section {
 body {
     background-color: #DBE4EE;
     font-size: 22px;
+    font-family: Kanit, 'Gentium Book Basic', Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    margin: 0;
 }
 
 header {
