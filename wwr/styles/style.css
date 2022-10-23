@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:ital@1&family=Permanent+Marker&display=swap');
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -20,6 +22,8 @@ nav a:hover {
 
 .home-tittle {
     color: #3E7CB1;
+    font-family: 'Permanent Marker', Helvetica, sans-serif;
+    font-size: 2em;
 }
 
 h4 {
@@ -64,6 +68,7 @@ header {
     background-color: #F9CB40;
     color: #3E7CB1;
     text-decoration: none;
+    font-size: 18px;
 }
 
 .book:hover,
@@ -80,14 +85,17 @@ header {
 .msg {
     background-color: #F9CB40;
     color: #3E7CB1;
+    line-height: 1.5em;
 }
 
 .msg h2 {
     color: #3E7CB1;
+    font-family: 'Permanent Marker', Helvetica, sans-serif;
 }
 
 .msg p {
     color: #3E7CB1;
+    font-size: 0.8em;
 }
 
 footer {
