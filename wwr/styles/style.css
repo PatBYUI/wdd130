@@ -73,6 +73,10 @@ main section {
     text-align: center;
 }
 
+main section img {
+    box-sizing: border-box;
+}
+
 header {
     background-color: #3E7CB1;
 }
@@ -92,10 +96,6 @@ header {
     border: 10px solid #F9CB40;
 }
 
-main section img {
-    box-sizing: border-box;
-}
-
 .book:hover,
 .join:hover {
     background-color: #3E7CB1;
@@ -106,11 +106,13 @@ main section img {
     height: 725px;
     background-color: #3E7CB1;
 }
+
 .rivers-card,
 .camping-card,
 .rapids-card{
-  margin: 200px 0;
+    margin: 200px;
 }
+
 .msg {
     background-color: #F9CB40;
     color: #3E7CB1;
@@ -118,15 +120,15 @@ main section img {
     padding: 35px;
 }
 
-.msg h2 {
-    color: #3E7CB1;
-    font-family: 'Permanent Marker', Helvetica, sans-serif;
-}
-
 .msg p {
     color: #3E7CB1;
     font-size: 0.8em;
     padding-bottom: 15px;
+}
+
+.msg h2 {
+    color: #3E7CB1;
+    font-family: 'Permanent Marker', Helvetica, sans-serif;
 }
 
 footer {
