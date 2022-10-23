@@ -68,9 +68,7 @@ h4 {
 .botton-box {
     text-align: center;
 }
-main {
-  margin-top: 100px;
-}
+
 main section {
     text-align: center;
 }
@@ -112,6 +110,10 @@ header {
 .rivers-card,
 .camping-card,
 .rapids-card{
+    margin: 200px 0;
+}
+
+.mountains{
     margin: 200px 0;
 }
 
